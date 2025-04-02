@@ -5,6 +5,7 @@ Neste projeto, analisei os **retornos e riscos** de quatro ETFs negociados na **
 ![2bd74080-bc89-41a8-999c-316f3e5dea94](https://github.com/user-attachments/assets/5d599ba0-76d4-4277-8e12-7fabf561c5c7)
 
 [Dashboard em PowerBI](https://app.powerbi.com/view?r=eyJrIjoiZWY5YzEzM2ItYTE5Yi00NGU2LTkzMmMtMmMwZWI4Yzk0ZWRmIiwidCI6ImMzN2IzN2EzLWU5ZTItNDJmOS1iYzY3LTRiOWI3MzhlMWRmMCJ9)
+<br>
 [Análise detalhada passo a passo com código Python](https://github.com/JAmaralDS/ETFsAnalysis/blob/main/An%C3%A1lise%20Explorat%C3%B3ria%20de%20Dados%20de%20ETFs%20no%20Brasil%20(2).ipynb)
 
 Os principais objetivos da análise são:  
